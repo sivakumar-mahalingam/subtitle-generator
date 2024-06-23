@@ -61,9 +61,10 @@ An SRT file includes:
    Ensure you have the video file path ready. The script will process this file to generate subtitles.
 
 2. **Run the script**:
-
+   
+   Update all file paths (.srt, .wav, .mp4) in the script
    ```bash
-   python generate_subtitles.py /path/to/video/file
+   python generate_subtitles.py
    ```
 
 3. **Output**:
