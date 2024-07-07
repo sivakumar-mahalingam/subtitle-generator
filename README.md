@@ -2,7 +2,7 @@
 
 This repository provides a Python script to generate subtitle files (`.srt`) for a given video file. The script extracts audio from the video, transcribes the audio using OpenAI's Whisper model, and generates an `.srt` file with the transcription and timestamps.
 
-# SRT Files
+## SRT Files
 
 SRT (.srt) files are the most common type of closed caption file format. SRT stands for “SubRip Subtitle” file.
 
